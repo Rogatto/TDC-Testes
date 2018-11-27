@@ -1,0 +1,40 @@
+{
+	"info": {
+		"_postman_id": "6dfa0fc5-4dd9-48c0-8c7f-a24c95d44483",
+		"name": "Mockaroo Exemplo",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Request Mockaroo",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "https://my.api.mockaroo.com/data-driven?key=1c5af660",
+					"protocol": "https",
+					"host": [
+						"my",
+						"api",
+						"mockaroo",
+						"com"
+					],
+					"path": [
+						"data-driven"
+					],
+					"query": [
+						{
+							"key": "key",
+							"value": "1c5af660"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
