@@ -1,19 +1,5 @@
-<!DOCTYPE html>
-<html>
+﻿# Como executar o projeto?
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Welcome file</title>
-  <link rel="stylesheet" href="https://stackedit.io/style.css" />
-</head>
+Na classe **ExtractJsonMockaroo** no diretório test, alterar a váriavel host para sua URL e API Key da sua conta do Mockaroo
 
-<body class="stackedit">
-  <div class="stackedit__html"><h1 id="como-executar-o-projeto">Como executar o projeto?</h1>
-<p>Na classe <strong>ExtractJsonMockaroo</strong> no diretório test, alterar a váriavel host para sua URL e API Key da sua conta do Mockaroo</p>
-<p>Projeto Java, efetuar o clone para seu computador, ir ao diretório de seu projeto e executar o comando <strong>mvn clean install</strong> no terminal(ter o maven instalado na sua máquina).</p>
-<pre><code></code></pre>
-</div>
-</body>
-
-</html>
+Projeto Java, efetuar o clone para seu computador, ir ao diretório de seu projeto e executar o comando **mvn clean install** no terminal(ter o maven instalado na sua máquina).
