@@ -1,4 +1,4 @@
-﻿# Como executar o projeto?
+# Como executar o projeto?
 
 Na classe **ExtractJsonMockaroo** no diretório test, alterar a váriavel host para sua URL e API Key da sua conta do Mockaroo
 
